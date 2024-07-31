@@ -1,0 +1,8 @@
+train: ../images/train
+validation: ../images/val
+test: ../images/test
+
+is_coco: False
+
+nc: 2
+names: ['defective','perfect']
